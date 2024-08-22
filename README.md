@@ -1,8 +1,6 @@
 # OpenAI  
 ### Revolutionizing Digital Accessibility with ChatGPT  
 
-![OpenAI](https://openai.com/favicon.ico)  
-
 ## Index  
 * [Overview and Origin](#overview-and-origin)  
 * [Business Activities](#business-activities)  
